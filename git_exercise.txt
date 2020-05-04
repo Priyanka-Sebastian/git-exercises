@@ -1,0 +1,3 @@
+git config --version
+git config --global user.name "Priyanka"
+git init
